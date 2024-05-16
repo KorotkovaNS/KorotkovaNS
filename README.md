@@ -42,39 +42,39 @@
   
 #### Сертификаты и свидетельства:
 
-- [1С-разработчик](Сертификаты-и-свидетельства/1СПрограммист.pdf)
+- [1С-разработчик](https://github.com/KorotkovaNS/Resume1CProgrammer/tree/main/%D0%A4%D0%B0%D0%B9%D0%BB%D1%8B)
    
-- [Бизнес-процессы и задачи](Сертификаты-и-свидетельства/Бизнес-процессы-и-задачи.pdf)
+- [Бизнес-процессы и задачи](https://github.com/KorotkovaNS/Resume1CProgrammer/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B-%D0%B8-%D1%81%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0/%D0%91%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D1%8B-%D0%B8-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.pdf)
    
- - [Механизмы расчета](Сертификаты-и-свидетельства/Механизмы-расчета.pdf)
+ - [Механизмы расчета](https://github.com/KorotkovaNS/Resume1CProgrammer/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B-%D0%B8-%D1%81%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0/%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC%D1%8B-%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%D0%B0.pdf)
     
- - [Механизмы учета](Сертификаты-и-свидетельства/Механизмы-учета.pdf)
+ - [Механизмы учета](https://github.com/KorotkovaNS/Resume1CProgrammer/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B-%D0%B8-%D1%81%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0/%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC%D1%8B-%D1%83%D1%87%D0%B5%D1%82%D0%B0.pdf)
     
- - [Встроенный язык](Сертификаты-и-свидетельства/Встроенный-язык.pdf)
+ - [Встроенный язык](https://github.com/KorotkovaNS/Resume1CProgrammer/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B-%D0%B8-%D1%81%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0/%D0%92%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D1%8F%D0%B7%D1%8B%D0%BA.pdf)
     
- - [Запросы и отчеты](Сертификаты-и-свидетельства/Запросы-и-отчеты.pdf)
+ - [Запросы и отчеты](https://github.com/KorotkovaNS/Resume1CProgrammer/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B-%D0%B8-%D1%81%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0/%D0%97%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B-%D0%B8-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D1%8B.pdf)
     
- - [Интеграция и обмен данными](Сертификаты-и-свидетельства/Интеграция-и-обмен-данными.pdf)
+ - [Интеграция и обмен данными](https://github.com/KorotkovaNS/Resume1CProgrammer/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B-%D0%B8-%D1%81%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0/%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B8-%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8.pdf)
     
- - [Интерфейс](Сертификаты-и-свидетельства/Интерфейс.pdf)
+ - [Интерфейс](https://github.com/KorotkovaNS/Resume1CProgrammer/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B-%D0%B8-%D1%81%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81.pdf)
     
- - [Логические операторы и алгоритмы](Сертификаты-и-свидетельства/Логические-операторы-и-алгоритмы.pdf)
+ - [Логические операторы и алгоритмы](https://github.com/KorotkovaNS/Resume1CProgrammer/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B-%D0%B8-%D1%81%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0/%D0%9B%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B-%D0%B8-%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B.pdf)
    
- - [Регистры](Сертификаты-и-свидетельства/Регистры.pdf)
+ - [Регистры](https://github.com/KorotkovaNS/Resume1CProgrammer/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B-%D0%B8-%D1%81%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0/%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D1%8B.pdf)
     
- - [Справочники и документы](Сертификаты-и-свидетельства/Справочники-и-документы.pdf)
+ - [Справочники и документы](https://github.com/KorotkovaNS/Resume1CProgrammer/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B-%D0%B8-%D1%81%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8-%D0%B8-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B.pdf)
     
- - [Среда разработки конфигурации](Сертификаты-и-свидетельства/Среда-разработки-и-конфигурация.pdf)
+ - [Среда разработки конфигурации](https://github.com/KorotkovaNS/Resume1CProgrammer/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B-%D0%B8-%D1%81%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0/%D0%A1%D1%80%D0%B5%D0%B4%D0%B0-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8-%D0%B8-%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D1%83%D1%80%D0%B0%D1%86%D0%B8%D1%8F.pdf)
     
- - [Файлы](Сертификаты-и-свидетельства/Файлы.pdf)
+ - [Файлы](https://github.com/KorotkovaNS/Resume1CProgrammer/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B-%D0%B8-%D1%81%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0/%D0%A4%D0%B0%D0%B9%D0%BB%D1%8B.pdf)
     
- - [Основы программирования в системе «1C:Предприятие 8»](Сертификаты-и-свидетельства/Свидетельство-1С.pdf)
+ - [Основы программирования в системе «1C:Предприятие 8»](https://github.com/KorotkovaNS/Resume1CProgrammer/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B-%D0%B8-%D1%81%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0/%D0%A1%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE-1%D0%A1.pdf)
    
 #### Образование:
 
 Высшее:
 
-- **2024 -  [диплом о профессиональной переподготовке](Диплом-о-профессиональной-переподготовке/1.pdf)**, ООО «Нетология», программист информационных систем, 1С - программист
+- **2024 -  [диплом о профессиональной переподготовке](https://github.com/KorotkovaNS/Resume1CProgrammer/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC-%D0%BE-%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9-%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B5/1.pdf)**, ООО «Нетология», программист информационных систем, 1С - программист
   
 - 2007 - Алтайский государственный университет, Барнаул филологический факультет, очная магистратура по направлению «Филология»
    
